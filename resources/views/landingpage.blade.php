@@ -111,7 +111,7 @@
                     <h3>Full-Stack Laravel Developer & Web Designer</h3>
                     <p>Seorang web developer yang berspesialisasi dalam pengembangan aplikasi web menggunakan Laravel framework. Berpengalaman dalam membangun aplikasi full-stack dengan arsitektur MVC yang scalable dan maintainable.</p>
                     <p>Menguasai teknologi modern seperti Laravel, Vue.js, MySQL, dan best practices dalam web development. Berkomitmen untuk menghasilkan kode yang clean, documented, dan mengikuti standar industri.</p>
-                    <p><strong>Keahlian:</strong> Laravel • PHP • MySQL • JavaScript • Bootstrap • Git • RESTful API • Database Design</p>
+                    <p><strong>Keahlian:</strong> Laravel • PHP • MySQL • JavaScript</p>
                 </div>
             </div>
         </div>
